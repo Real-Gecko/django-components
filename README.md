@@ -103,6 +103,13 @@ TEMPLATES = [
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Real-Gecko">
+            <img src="https://avatars.githubusercontent.com/u/2231969?v=4" width="100;" alt="Real-Gecko"/>
+            <br />
+            <sub><b>Real-Gecko</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/BradleyKirton">
             <img src="https://avatars.githubusercontent.com/u/6583221?v=4" width="100;" alt="BradleyKirton"/>
             <br />
@@ -115,7 +122,8 @@ TEMPLATES = [
             <br />
             <sub><b>Dan Jacob</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/telenieko">
             <img src="https://avatars.githubusercontent.com/u/10505?v=4" width="100;" alt="telenieko"/>
